@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Digitalization in Electric Distribution and Retail
+- 🌱 I’m currently learning LLM
+
 <!--
 **witamai9000/witamai9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
