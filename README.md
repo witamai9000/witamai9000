@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Digitalization in Electric Distribution and Retail
+- 🔭 I’m currently working at PLN on Digitalization of Electric Distribution and Retail
 - 🌱 I’m currently learning LLM
 
 <!--
