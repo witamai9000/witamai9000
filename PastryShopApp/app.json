@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Pastry Shop",
+    "slug": "pastry-shop-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5E6"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.pastryshop.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF5E6"
+      },
+      "package": "com.pastryshop.app"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app needs access to your photos to upload payment receipt."
+        }
+      ]
+    ],
+    "scheme": "pastryshop",
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
